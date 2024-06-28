@@ -7,6 +7,7 @@ html {
 }
 body{
   font-size: 15px;
+  max-width: 980px;
 }
 ul{
   list-style: none;
